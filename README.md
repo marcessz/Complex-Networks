@@ -24,4 +24,5 @@ The graphs are collected from the following sources:
 | Web | Pieces of the World Wide Web | 146-16K <br> (avg: 4,488) | 14 |
 
 ## Calculated graph measurements
-
+The [data of networks](./data)
+assortativity, average clustering coefficient, average degree, average path length, density, global clustering coefficient, four interval degree probabilities \cite{aliakbary2014quantification}, largest eigenvector centrality, maximum degree, maximum edge and vertex betweenness centralities, number of edges and nodes and pseudo diameter
