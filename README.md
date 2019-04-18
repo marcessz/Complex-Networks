@@ -1,6 +1,8 @@
 # Complex-Networks
 Supplementary data for Data-driven Analysis of Complex Networks and their Model-generated Counterparts - M. Nagy, R. Molontay (2019)
+## Cite as
 
+## Source
 The graphs are collected from the following sources: 
 * [Network Repository](http://networkrepository.com), 
 * [The Colorado Index of Complex Networks (ICON)](http://networkrepository.com), 
@@ -20,4 +22,6 @@ The graphs are collected from the following sources:
 | Infrastructural | Transportation (metro, bus, road, airline) and distribution networks (power and water) | 39-40K <br> (avg: 4,562) | 68 |
 | Social | Facebook, Twitter and collaboration networks | 16-56K <br> (avg: 5,824) | 100 |
 | Web | Pieces of the World Wide Web | 146-16K <br> (avg: 4,488) | 14 |
-## Cite as
+
+## Calculated graph measurements
+
