@@ -14,10 +14,10 @@ The graphs are collected from the following sources:
 
 | Domain | Description | Range of network size | Number of networks |
 |-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
-| Brain | Human and animal connectomes | 50-2,995 \ (avg: 946) | 100 |
-| Cheminformatics | Protein-protein (enzyme) interaction networks | 44-125 \ (avg: 55) | 100 |
-| Food | What-eats-what, consumer-resource networks | 19-1,500 \ (avg: 118) | 100 |
-| Infrastructural | Transportation (metro, bus, road, airline) and distribution networks (power and water) | 39-40K \ (avg: 4,562) | 68 |
-| Social | Facebook, Twitter and collaboration networks | 16-56K \ (avg: 5,824) | 100 |
-| Web | Pieces of the World Wide Web | 146-16K \ (avg: 4,488) | 14 |
+| Brain | Human and animal connectomes | 50-2,995 <br> (avg: 946) | 100 |
+| Cheminformatics | Protein-protein (enzyme) interaction networks | 44-125 <br> (avg: 55) | 100 |
+| Food | What-eats-what, consumer-resource networks | 19-1,500 <br> (avg: 118) | 100 |
+| Infrastructural | Transportation (metro, bus, road, airline) and distribution networks (power and water) | 39-40K <br> (avg: 4,562) | 68 |
+| Social | Facebook, Twitter and collaboration networks | 16-56K <br> (avg: 5,824) | 100 |
+| Web | Pieces of the World Wide Web | 146-16K <br> (avg: 4,488) | 14 |
 ## Cite as
