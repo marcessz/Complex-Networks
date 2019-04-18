@@ -23,7 +23,10 @@ The graphs are collected from the following sources:
 | Social | Facebook, Twitter and collaboration networks | 16-56K <br> (avg: 5,824) | 100 |
 | Web | Pieces of the World Wide Web | 146-16K <br> (avg: 4,488) | 14 |
 
-## Calculated graph measurements
+
+The edgelists of the graphs can be found in the [graphs folder](./graphs).
+
+## Calculated Graph Measurements
 The [data folder](./data) contains a spreadsheet that contains the calculated metrics of the 482 real networks. 
 
 The calculated metrics are the following:
