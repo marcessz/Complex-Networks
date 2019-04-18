@@ -1,6 +1,6 @@
 # Complex-Networks
 Supplementary data for the paper *Data-driven Analysis of Complex Networks and their Model-generated Counterparts* - M. Nagy, R. Molontay (2019)
-## how to Cite
+## How to Cite
 
 ## Source
 The graphs are collected from the following sources: 
