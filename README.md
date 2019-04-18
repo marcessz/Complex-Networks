@@ -13,7 +13,7 @@ The graphs are collected from the following sources:
 ## Composition
 
 | Domain | Description | Range of network size | Number of networks |
-|-----------------|--------------------------------------------------------------------------|:----------------------------------:|:--------------:|
+|-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
 | Brain | Human and animal connectomes | 50-2,995  (avg: 946) | 100 |
 | Cheminformatics | Protein-protein (enzyme) interaction networks | 44-125 (avg: 55) | 100 |
 | Food | What-eats-what, consumer-resource networks | 19-1,500 (avg: 118) | 100 |
