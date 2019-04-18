@@ -1,6 +1,6 @@
 # Complex-Networks
 Supplementary data for the paper *Data-driven Analysis of Complex Networks and their Model-generated Counterparts* - M. Nagy, R. Molontay (2019)
-## Cite as
+## how to Cite
 
 ## Source
 The graphs are collected from the following sources: 
@@ -12,7 +12,7 @@ The graphs are collected from the following sources:
 * [Transportation Networks for Research](https://github.com/bstabler/TransportationNetworks),
 * [Centre for Water Systems](http://emps.exeter.ac.uk/engineering/research/cws/resources/benchmarks/)
 
-## Composition
+## Summary of Networks
 
 | Domain | Description | Range of network size | Number of networks |
 |-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
@@ -24,5 +24,22 @@ The graphs are collected from the following sources:
 | Web | Pieces of the World Wide Web | 146-16K <br> (avg: 4,488) | 14 |
 
 ## Calculated graph measurements
-The [data of networks](./data)
-assortativity, average clustering coefficient, average degree, average path length, density, global clustering coefficient, four interval degree probabilities \cite{aliakbary2014quantification}, largest eigenvector centrality, maximum degree, maximum edge and vertex betweenness centralities, number of edges and nodes and pseudo diameter
+The [data folder](./data) contains a spreadsheet that contains the calculated metrics of the 482 real networks. 
+
+The calculated metrics are the following:
+- assortativity, 
+- average clustering coefficient, 
+- average degree, 
+- average path length, 
+- density, 
+- global clustering coefficient, 
+- four interval degree probabilities introduced in [this paper](https://ieeexplore.ieee.org/abstract/document/7000748),
+- largest eigenvector centrality, 
+- maximum degree, 
+- maximum edge betweenness centrality,
+- maximum vertex betweenness centrality,
+- number of edges,
+- number of nodes, 
+- pseudo diameter
+
+A detailed description of the dataset and the metrics can be found in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts*](arxiv.com)
