@@ -2,11 +2,12 @@
 Supplementary data for the paper *Data-driven Analysis of Complex Networks and their Model-generated Counterparts* - M. Nagy, R. Molontay (2019)
 ## How to Cite
 ```
-@article{data2019nagy,
+@article{nagy2018data,
   title={Data-driven Analysis of Complex Networks and their Model-generated Counterparts},
-  author={Nagy, Marcell and Roland, Molontay},
-  journal={arXiv preprint},
-  year={2019}
+  author={Nagy, Marcell and Molontay, Roland},
+  journal={arXiv preprint arXiv:1810.08498},
+  url={https://arxiv.org/abs/1810.08498},
+  year={2018}
 }
 ```
 
@@ -56,4 +57,4 @@ The calculated metrics are the following:
 - number of nodes, 
 - pseudo diameter
 
-A detailed description of the dataset and the metrics can be found in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts*](arxiv.com)
+A detailed description of the dataset and the metrics can be found in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts*](https://arxiv.org/abs/1810.08498)
