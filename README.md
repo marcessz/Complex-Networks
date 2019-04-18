@@ -1,12 +1,14 @@
 # Complex-Networks
 Supplementary data for the paper *Data-driven Analysis of Complex Networks and their Model-generated Counterparts* - M. Nagy, R. Molontay (2019)
 ## How to Cite
-> @article{data2019nagy,
->   title={Data-driven Analysis of Complex Networks and their Model-generated Counterparts},
->   author={Nagy, Marcell and Roland, Molontay},
->   journal={arXiv preprint},
->   year={2019}
+```
+@article{data2019nagy,
+  title={Data-driven Analysis of Complex Networks and their Model-generated Counterparts},
+  author={Nagy, Marcell and Roland, Molontay},
+  journal={arXiv preprint},
+  year={2019}
 }
+```
 
 
 ## Source
