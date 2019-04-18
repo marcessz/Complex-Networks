@@ -14,6 +14,9 @@ The graphs are collected from the following sources:
 
 ## Summary of Networks
 
+
+The edgelists of the graphs can be found in the [graphs folder](./graphs).
+
 | Domain | Description | Range of network size | Number of networks |
 |-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
 | Brain | Human and animal connectomes | 50-2,995 <br> (avg: 946) | 100 |
@@ -24,9 +27,8 @@ The graphs are collected from the following sources:
 | Web | Pieces of the World Wide Web | 146-16K <br> (avg: 4,488) | 14 |
 
 
-The edgelists of the graphs can be found in the [graphs folder](./graphs).
 
-## Calculated Graph Measurements
+## Graph Measurements
 The [data folder](./data) contains a spreadsheet that contains the calculated metrics of the 482 real networks. 
 
 The calculated metrics are the following:
