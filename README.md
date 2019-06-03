@@ -25,8 +25,6 @@ The graphs are collected from the following sources:
 ## Summary of Networks
 
 
-The edgelists of the graphs can be found in the [graphs folder](./graphs).
-
 | Domain | Description | Range of network size | Number of networks |
 |-----------------|--------------------------------------------------------------|:---------------------------------------:|:--------------:|
 | Brain | Human and animal connectomes | 50-2,995 <br> (avg: 946) | 100 |
