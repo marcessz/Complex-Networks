@@ -1,4 +1,4 @@
-This folder contains all the networks that studied in our paper.
+This folder contains all the networks that we studied in our paper.
 
 The graphs are collected from the following sources: 
 * [Network Repository](http://networkrepository.com), 
