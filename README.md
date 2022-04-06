@@ -22,6 +22,9 @@ The graphs are collected from the following sources:
 * [Transportation Networks for Research](https://github.com/bstabler/TransportationNetworks),
 * [Centre for Water Systems](http://emps.exeter.ac.uk/engineering/research/cws/resources/benchmarks/)
 
+
+__The collected networks canbe found in the [networks folder](./networks)
+
 ## Summary of Networks
 
 
