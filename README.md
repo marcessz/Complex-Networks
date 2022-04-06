@@ -23,7 +23,7 @@ The graphs are collected from the following sources:
 * [Centre for Water Systems](http://emps.exeter.ac.uk/engineering/research/cws/resources/benchmarks/)
 
 
-__The collected networks canbe found in the [networks folder](./networks)
+__The collected networks canbe found in the [networks folder](./networks)__
 
 ## Summary of Networks
 
