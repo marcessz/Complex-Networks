@@ -59,3 +59,8 @@ The calculated metrics are the following:
 - pseudo diameter
 
 A detailed description of the dataset and the metrics can be found in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts*](https://arxiv.org/abs/1810.08498)
+
+
+# Supplementary material
+
+![social](./suplementary/social_stability.png)
