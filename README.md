@@ -1,14 +1,16 @@
-# Structural Analysis of Real and Model-Generated Networks
-Supplementary data for the paper *Data-driven Analysis of Complex Networks and their Model-generated Counterparts* - M. Nagy, R. Molontay (2019)
+# Structural analysis of real networks and their model-generated counterparts
+Supplementary data for the paper *Network classification-based structural analysis of real networks and their model-generated counterparts* - M. Nagy, R. Molontay (2022)
 ## How to Cite
 ```
-@article{nagy2018data,
-  title={Data-driven Analysis of Complex Networks and their Model-generated Counterparts},
+@article{nagy2022network,
+  title={Network classification-based structural analysis of real networks and their model-generated counterparts},
   author={Nagy, Marcell and Molontay, Roland},
-  journal={arXiv preprint arXiv:1810.08498},
-  url={https://arxiv.org/abs/1810.08498},
-  year={2018}
+  journal={Network Science},
+  pages={1--24},
+  year={2022},
+  publisher={Cambridge University Press}
 }
+
 ```
 
 
@@ -58,7 +60,7 @@ The calculated metrics are the following:
 - number of nodes, 
 - pseudo diameter
 
-A detailed description of the dataset and the metrics can be found in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts*](https://arxiv.org/abs/1810.08498)
+A detailed description of the dataset and the metrics can be found in [Network classification-based structural analysis of real networks and their model-generated counterparts](https://www.cambridge.org/core/journals/network-science/article/abs/network-classificationbased-structural-analysis-of-real-networks-and-their-modelgenerated-counterparts/44C79234EAF40C5F02A340E15CD8F638) and in [*Data-driven Analysis of Complex Networks and their Model-generated Counterparts*](https://arxiv.org/abs/1810.08498)
 
 
 # Supplementary material
