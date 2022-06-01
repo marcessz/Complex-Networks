@@ -1,5 +1,5 @@
 # Structural analysis of real networks and their model-generated counterparts
-Supplementary data for the paper *Network classification-based structural analysis of real networks and their model-generated counterparts* - M. Nagy, R. Molontay (2022)
+Supplementary data for the paper: Nagy, M., & Molontay, R. (2022). Network classification-based structural analysis of real networks and their model-generated counterparts. *Network Science*, 1-24.
 ## How to Cite
 ```
 @article{nagy2022network,
