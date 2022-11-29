@@ -65,4 +65,11 @@ A detailed description of the dataset and the metrics can be found in [Network c
 
 # Supplementary material
 
-![social](./suplementary/social_stability.png)
+## Stability of the networks 
+
+![social](./suplementary/stability_soc.png)
+![chem](./suplementary/stability_chem.png)
+![brain](./suplementary/stability_brain.png)
+![food](./suplementary/stability_food.png)
+![inf](./suplementary/stability_inf.png)
+![web](./suplementary/stability_web.png)
