@@ -80,7 +80,7 @@ A detailed description of the dataset and the metrics can be found in [Network c
 ![social](./suplementary/stability_soc.png)
 
 ## Web network (Darkweb)
-![web](./suplementary/stability_web.png)
+![web](./suplementary/stabilitiy_web.png)
 
 ## Brain network (Jung2015)
 ![brain](./suplementary/stability_brain.png)
