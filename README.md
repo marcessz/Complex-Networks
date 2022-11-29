@@ -67,6 +67,10 @@ A detailed description of the dataset and the metrics can be found in [Network c
 
 ## Stability of the networks 
 
+Since the network models generate random graphs, the question naturally comes up: How robust are the graph metrics of the fitted models with fixed parameters?
+We have analyzed the sensitivity of the models on six different-sized graphs from different domains, the chosen networks are detailed in the table below.  For each of these six real networks, we fitted each network model and then generated 30 graph instances with each model using the previously fitted parameter settings. For the sensitivity analysis, we studied the distribution of the graph measurements of the graph instances.
+
+
 | Domain           | Name                                 | Size   | Number of edges |
 |------------------|--------------------------------------|--------|-----------------|
 | Social           | ca-AstroPh (Leskovec et al., 2007)   | 17,903 | 196,972         |
