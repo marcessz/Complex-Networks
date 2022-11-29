@@ -67,9 +67,30 @@ A detailed description of the dataset and the metrics can be found in [Network c
 
 ## Stability of the networks 
 
+| Domain           | Name                                 | Size   | Number of edges |
+|------------------|--------------------------------------|--------|-----------------|
+| Social           | ca-AstroPh (Leskovec et al., 2007)   | 17,903 | 196,972         |
+| Web              | Darkweb (Griffith et al., 2017)      | 7,178  | 24,879          |
+| Brain            | Jung2015 (Kiar, 2016)                | 2,989  | 31,548          |
+| Infrastructure   | ABN (Chatterjee et al., 2016)        | 1,103  | 2,150           |
+| Food             | Srep (Dunne et al., 2016)            | 235    | 1,743           |
+| Cheminformatics  | Enzymes-g292 (Canning et al., 2018)  | 60     | 100             |
+
+## Social network (ca-AstroPh)
 ![social](./suplementary/stability_soc.png)
-![chem](./suplementary/stability_chem.png)
-![brain](./suplementary/stability_brain.png)
-![food](./suplementary/stability_food.png)
-![inf](./suplementary/stability_inf.png)
+
+## Web network (Darkweb)
 ![web](./suplementary/stability_web.png)
+
+## Brain network (Jung2015)
+![brain](./suplementary/stability_brain.png)
+
+## Infrastructure network (ABN)
+![inf](./suplementary/stability_inf.png)
+
+## Food network (Srep)
+![food](./suplementary/stability_food.png)
+
+## Cheminformatics network (Enzymes-g292)
+![chem](./suplementary/stability_chem.png)
+
