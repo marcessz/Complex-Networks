@@ -77,7 +77,7 @@ The following figures show  the structural properties of the real networks that 
 ![food](./suplementary/food_avgpath_eigen.png)
 ![infra](./suplementary/infra_clust_avg_path.png)
 ![social](./suplementary/social_assortativity_avgclust.png)
-![web](./suplementary/web_avgclust_avgpath.png)
+![web](./suplementary/web_avgclust_avgpath.)
 
 
 ## Stability of the networks 
