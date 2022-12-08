@@ -68,7 +68,9 @@ A detailed description of the dataset and the metrics can be found in [Network c
 
 ## Analysis of network models 
 
-Distribution of the most distinguishing graph metrics of the real networks and the model-generated graphs.
+According to the Random Forest classifier, when the goal is to predict whether the network is real or model-generated, the most distinguishing graph metrics are the normalized average path length, the average clustering coefficient, the maximum eigenvector centrality, and the assortativity. 
+
+The following figures show  the structural properties of the real networks that the network models cannot capture. In other words, the distribution of the most distinguishing graph metrics of the real networks and the model-generated graphs.
 
 ![brain](./suplementary/brain_avgclust_avgpath.png)
 ![chem](./suplementary/chem_clust_avgpath.png)
