@@ -65,6 +65,19 @@ A detailed description of the dataset and the metrics can be found in [Network c
 
 # Supplementary material
 
+
+## Analysis of network models 
+
+Distribution of the most distinguishing graph metrics of the real networks and the model-generated graphs.
+
+![brain](./suplementary/brain_avgclust_avgpath.png)
+![chem](./suplementary/chem_clust_avgpath.png)
+![food](./suplementary/food_avgpath_eigen.png)
+![infra](./suplementary/infra_clust_avg_path.png)
+![social](./suplementary/social_assortativity_avgclust.png)
+![web](./suplementary/web_avgclust_avgpath.png)
+
+
 ## Stability of the networks 
 
 Since the network models generate random graphs, the question naturally comes up: How robust are the graph metrics of the fitted models with fixed parameters?
