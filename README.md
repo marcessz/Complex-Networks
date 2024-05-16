@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-1810.08498-b31b1b.svg?style=flat)](https://arxiv.org/abs/1810.08498)
+
 # Network classification-based structural analysis of real networks and their model-generated counterparts
 Supplementary data for the paper: [Nagy, M., & Molontay, R. (2022). Network classification-based structural analysis of real networks and their model-generated counterparts. *Network Science*, 1-24](https://www.cambridge.org/core/journals/network-science/article/abs/network-classificationbased-structural-analysis-of-real-networks-and-their-modelgenerated-counterparts/44C79234EAF40C5F02A340E15CD8F638).
 ## How to Cite
